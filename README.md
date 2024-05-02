@@ -1,6 +1,6 @@
 # 30 Days of Bootstrap
 
-Welcome to the "30 Days of Bootstrap" repository! This project aims to provide you with a structured learning experience to master Bootstrap, a popular front-end framework for building responsive and mobile-first websites.
+Welcome to the `30 Days of Bootstrap` repository! This project aims to provide you with a structured learning experience to master Bootstrap, a popular front-end framework for building responsive and mobile-first websites.
 
 ## Overview
 
